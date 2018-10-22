@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Lab10MovieCats {
-	// A scanner!
+	// A scanner.
 	static Scanner read = new Scanner(System.in);
 	// List is used in multiple locations.
 	static List<Movie> movList = new ArrayList<>();

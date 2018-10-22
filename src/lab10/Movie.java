@@ -41,7 +41,7 @@ public class Movie {
 				isCat = true;
 			}
 		}			
-		return isCat;	
+		return isCat;
 	}
 	public String searchCat(String potCat) {
 		for (int i = 0; i < category.size(); i++) {
