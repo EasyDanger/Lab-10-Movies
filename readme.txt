@@ -14,4 +14,4 @@ Version History
 	--UI cleanup
 	--comments
 	--add ordering (alphabetical)
-	--
+	--does not update list of categories.
